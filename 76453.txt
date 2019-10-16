@@ -1,0 +1,9 @@
+Purchase ID: 76453
+Customer ID: 123
+Product ID: 123
+Purchase Date: "Tue Oct 08 18:46:48 CDT 2019"
+Purchase Name: kflkjfkl
+Purchase Quantity: 2.0
+Purchase Price: 3.0
+Purchase Tax: 0.0
+Purchase Total: 6.0
